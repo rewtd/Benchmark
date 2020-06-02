@@ -1,4 +1,4 @@
-./target/*
-./scorecard/*
-./tools/Contrast/contrast.jar
-./tools/Contrast/working/*
+/target/*
+/scorecard/*
+/tools/Contrast/contrast.jar
+/tools/Contrast/working/*
