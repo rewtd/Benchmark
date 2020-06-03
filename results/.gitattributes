@@ -1,0 +1,4 @@
+*.log filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+*.ozasmt filter=lfs diff=lfs merge=lfs -text
+*.threadfix filter=lfs diff=lfs merge=lfs -text
